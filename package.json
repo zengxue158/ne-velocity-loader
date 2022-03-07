@@ -1,0 +1,21 @@
+{
+  "name": "ne-velocity-loader",
+  "version": "0.0.2",
+  "description": "本地环境支持渲染velocity",
+  "main": "ne-velocity-loader.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zengxue158/ne-velocity-loader"
+  },
+  "keywords": [
+    "velocity"
+  ],
+  "author": "zengxue158",
+  "license": "ISC"
+}
