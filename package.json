@@ -1,6 +1,6 @@
 {
   "name": "ne-velocity-loader",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "本地环境支持渲染velocity",
   "main": "ne-velocity-loader.js",
   "directories": {
